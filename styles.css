@@ -22,4 +22,11 @@ body {
   text-align: center;
   border-radius: 10px;
   font-weight: bold;
+  grid-area: pink;
+}
+
+.containerOne {
+display: grid;
+margin: 20px;
+padding: 20px 20px;
 }
